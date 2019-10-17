@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://leefujeeth.jsonapi.org.cn/sitemap.xml
